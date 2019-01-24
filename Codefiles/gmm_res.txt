@@ -1,0 +1,44 @@
+
+vect+gmm same model
+
+JUSZA-
+Podczas nalewania widać, że nie jest sztucznie nagazowywane CO2. Dwutlenek węgla jest w tym piwie w 100% wynikiem dojrzewania piwa już w butelce (stąd też resztki martwych drożdży). 
+
+W te upalne dni w ustach sprawia niezapomniane wrażenie. / 13
+
+
+vect+gmm same model
+(jusza,1.0,0.9999493875898371)
+(Dzik,1.0,0.9880057821787455)
+(dr know,1.0,0.9113432403918613)
+(Starosta,1.0,0.905725996465996)
+(Szalony,0.0,0.863981376539111)
+
+vect+gmm different
+
+
+
+STAROSTA
+choćby z powodu posta Łojanta w tej dyskusji. Okazuje się, że mają miejsca jakieś przetasowania (rezygnacja Jacka Fludera), o których publczność nic nie wie. Powiem owijając w bawełnę, że o ile mi wiadomo, rezygnacja Jacka nie była z powodów osobistych. Tak więc warunek spokojnej pracy nie został spełniony i to wcale nie przez moją dociekliwość - rezygnacja miała miejsce jakiś czas temu.
+Wydaje mi się, że to właśnie przez niejasne,  / 18
+
+vect+gmm same model
+Szalony,1.0,1.0)
+(jusza,1.0,1.0)
+(dr know,1.0,0.9998400000000001)
+(Dzik,1.0,0.9991274144157617)
+(Starosta,0.0,0.8211184785705268)
+
+vect+gmm different
+
+
+powania Związku ws. Golden Lunacy. Sprawa ta, która bez wątpienia jest jedną z najbardziej bulwersujących w historii polskiego wspinania, powinna być wyjaśniana /10
+
+vect+gmm same model
+(dr know,1.0,1.0)
+(jusza,1.0,1.0)
+(Szalony,1.0,0.9992184380869579)
+(Dzik,1.0,0.99867735696139)
+(Starosta,0.0,0.8805723765695945)
+
+vect+gmm different
