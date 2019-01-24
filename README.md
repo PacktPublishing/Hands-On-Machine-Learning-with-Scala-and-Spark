@@ -1,4 +1,4 @@
-# Hands-On Microservices with Spring Boot 2.0 [Video]
+# Hands-On Machine Learning with Scala and Spark [Video]
 This is the code repository for [Hands-On Microservices with Spring Boot 2.0 [Video]](https://www.packtpub.com/big-data-and-business-intelligence/hands-machine-learning-scala-and-spark-video?utm_source=github&utm_medium=repository&utm_campaign=9781789342468), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
 Programmers face multiple challenges while implementing ML; dealing with unstructured data and picking the proper ML model are among the hardest.
