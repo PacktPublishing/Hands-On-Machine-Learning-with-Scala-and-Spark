@@ -49,4 +49,3 @@ This course has been tested on the following system configuration:
 
 * [Hands-On Microservices with Spring Boot 2.0 [Video]](https://www.packtpub.com/application-development/hands-microservices-spring-boot-20-video?utm_source=github&utm_medium=repository&utm_campaign=9781788991551)
 
-
